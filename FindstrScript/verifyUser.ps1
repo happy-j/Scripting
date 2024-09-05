@@ -1,0 +1,3 @@
+# Verify User #
+$whoami = whoami
+

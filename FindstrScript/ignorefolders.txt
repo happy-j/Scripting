@@ -1,0 +1,2 @@
+c:\temp\ignore_this_folder
+\\servername\share\ignore_this_folder
